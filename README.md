@@ -17,7 +17,7 @@ An app to track your workouts with accountability partners.
 
 To run this project, you will need to add the following environment variables to your .env file
 
-
+`ATLAS_URI` A link to your Mongo database
 
   
 ## Run Locally
